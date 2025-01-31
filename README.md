@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajala John</h1>
-<h3 align="center"> Hi, I'm Ajala John, a frontend web developer with a passion for creating fast, scalable, and visually appealing web applications. My skills include:
-
-- Frontend development with HTML, CSS, JavaScript
-- Modern frontend frameworks like React, Angular
-- Responsive web design and web performance optimization
-
+<h3 align="center"> Hi, I'm Ajala John, a frontend web developer with a passion for creating fast, scalable, and visually appealing web applications.
 I'm always looking to improve my skills and collaborate with other developers. Check out my repositories and let's connect!"
 </h3>
 
